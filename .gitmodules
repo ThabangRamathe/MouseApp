@@ -1,0 +1,3 @@
+[submodule "mouse_server"]
+	path = mouse_server
+	url = https://github.com/ThabangRamathe/mouse_server.git
